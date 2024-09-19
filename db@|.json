@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "username": "kominfo",
+            "password": "admin#123"
+        },
+        {
+            "username": "freeuser",
+            "password": "dispassword"
+        },
+        {
+            "username": "admin",
+            "password": "kucing_@323"
+        }
+    ]
+}
